@@ -1,6 +1,6 @@
 Intelligent Customer Help Desk with Smart Document Understanding
 
-here is a link to my demo on chatbot using:https://www.youtube.com/watch?v=WcLRV2rbjUE&ab_channel=DirghPatel
+here is a link to my demo on chatbot using: https://youtu.be/WcLRV2rbjUE
 
 This repository contains the project report and the Node-Red flow of the chatbot developed using various IBM Watson Services for backend and Node-Red for UI.
 The typical customer care chatbot can answer simple questions, such as store locations and hours, directions. When a question falls outside of the scope of the pre-determined question set, the option is to tell the customer the question isn’t valid.
